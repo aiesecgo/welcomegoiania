@@ -1,0 +1,11 @@
+body{
+  display: flex;
+  min-height: 100vh;
+  box-sizing: border-box;
+
+  background: #20bcb2; 
+  background: -webkit-linear-gradient(left, #20bcb2 , #38b8e9); 
+  background: -o-linear-gradient(right, #20bcb2, #38b8e9); 
+  background: -moz-linear-gradient(right, #20bcb2, #38b8e9); 
+  background: linear-gradient(to right, #20bcb2 , #38b8e9);
+}
